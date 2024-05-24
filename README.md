@@ -1,8 +1,5 @@
 # Python-KNN-Implementation-with-Cross-Validation
- Developed custom KNN classifiers in Python for diverse datasets including Hayes-Roth, Car Evaluation, and Breast Cancer data.
-# Report
-
-**Humeira (1002037944)**
+ Developed custom KNN classifiers in Python for diverse datasets including Hayes-Roth, Car Evaluation, and Breast Cancer data
 
 ## Hayes Roth Dataset
 
